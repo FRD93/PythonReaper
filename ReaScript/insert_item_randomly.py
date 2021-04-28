@@ -13,19 +13,19 @@ f.r.d@hotmail.it
 
 # Path to media item
 #MEDIA_FILE_PATH = "/Users/admin/Desktop/LABA - Sound Design - Video Files/Horror_lights_01/audio/Light.wav"
-MEDIA_FILE_PATH = "/Users/admin/Documents/Samples/SoundLibrary/Instruments/House/bass/bass_30/36.wav"
+MEDIA_FILE_PATH = "/Users/admin/Documents/Samples/SoundLibrary/Instruments/Lo-Fi/drum/drum_101/77.wav"
 
 # Number of insertions
-N = 21
+N = 15
 
 # Start time (s)
 START_TIME = 0.0
 
 # End time (s)
-END_TIME = 60.0
+END_TIME = 36.0
 
 # Step (s)
-STEP = 2
+STEP = 0.25
 
 
 
